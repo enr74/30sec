@@ -1,5 +1,8 @@
 package com.my30sec.domain
 
+/*
+ * Test comment
+ */
 class Description {
 	String locale
 	String text
